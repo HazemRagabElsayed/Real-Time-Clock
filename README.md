@@ -12,7 +12,7 @@ This project is an Atmega32 that uses its timer2 (Internal Hardware) to count se
 
 -Crystal Oscillator 32.768 KHz (as mentioned in datasheet of atmega32 to make timer2 to count seconds accurately)
 
-- 18 pf capacitors (as mentioned in datasheet of atmega32)
+-18 pf capacitors (as mentioned in datasheet of atmega32)
 
 -Keypad (to set time if 1 is Pressed)
 
